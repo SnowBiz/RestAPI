@@ -1,5 +1,5 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="Global.asax.cs">
+// <copyright file="WebApiConfig.cs">
 //  Copyright (c) 2017 All Rights Reserved
 // <author>Alan Snow</author>
 // </copyright>

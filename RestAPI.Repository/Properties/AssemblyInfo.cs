@@ -1,4 +1,11 @@
-﻿using System.Reflection;
+﻿//-----------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs">
+//  Copyright (c) 2017 All Rights Reserved
+// <author>Alan Snow</author>
+// </copyright>
+//-----------------------------------------------------------------------
+
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

@@ -1,4 +1,9 @@
-﻿
+﻿//-----------------------------------------------------------------------
+// <copyright file="StatusController.cs">
+//  Copyright (c) 2017 All Rights Reserved
+// <author>Alan Snow</author>
+// </copyright>
+//-----------------------------------------------------------------------
 
 namespace RestAPI.Controllers
 {
